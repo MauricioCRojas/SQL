@@ -1,0 +1,1 @@
+Distinct, Union, Case, Agrupamiento y Funciones de Agregado
