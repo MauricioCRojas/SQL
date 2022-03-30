@@ -1,0 +1,2 @@
+Estructuras de control e iterativas,  BATCHES, 
+Procedimientos Almacenados, Variables globales de sistema
