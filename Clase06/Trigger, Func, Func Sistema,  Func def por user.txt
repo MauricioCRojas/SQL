@@ -1,0 +1,2 @@
+Desencadenadores, Conversión de Tipo de Dato
+Trigger, Func, Func Sistema,  Func def por user
