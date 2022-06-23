@@ -32,7 +32,7 @@ order by ListPrice desc
 
 				--Subconsultas correlacionadas--
 
---La subconsulta utiliza un campo que pernetece a la consulta original
+--La subconsulta utiliza un campo que pertenece a la consulta original
 select ProductSubcategoryID Subcategoria, Name Nombre, ListPrice Precio
 from Production.Product p where ListPrice =
 (select min(ListPrice) from Production.Product p1 
